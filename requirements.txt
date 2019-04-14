@@ -1,4 +1,8 @@
 scipy
 numpy
 matplotlib
+jupyter
+seaborn
+pandas
+nltk
 
